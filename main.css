@@ -1,0 +1,204 @@
+html {
+    overflow-x: hidden;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 89px;
+}
+
+#google {
+    padding-top: 82px;
+}
+
+.search-bar {
+    text-align: center;
+
+}
+
+.search-button {
+    text-align: center;
+}
+
+#search {
+    height: 34px;
+    width: 582px;
+    border-radius: 25px;
+    margin-top: 32px;
+    padding: 5px 8px 5px 14px;
+    font-size: 16px;
+    font: arial;
+    outline: none;
+    border: 1px solid #ccc;
+}
+
+button {
+    vertical-align: top;
+}
+
+#button {
+    text-align: center;
+    height: 34px;
+    width: 130px;
+    padding: 0px 16px 0px 16px; 
+    margin: 30px auto;
+    display: inline-block;
+    border-radius: 5px;
+    text-orientation: sideways-right;
+    background-color: rgb(242, 242, 242);
+    margin-right: 5px;
+    color: rgba(0,0,0, 0.7);
+    outline: none;
+}
+
+#lucky {
+    text-align: center;
+    height: 34px;
+    width: 140px;
+    padding: 0px 16px 0px 16px; 
+    margin: 30px auto;
+    display: inline-block;
+    border-radius: 5px;
+    text-orientation: sideways-right;
+    background-color: rgb(242, 242, 242);
+    color: rgba(0, 0, 0, 0.7);
+    outline: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-auto-flow: column;
+    font-family: arial,sans-serif;
+}
+
+#store {
+    padding-right: 1550px;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+#about {
+    text-decoration: none;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+#gmail {
+    text-decoration: none;
+    font-size: 15px;
+    padding-right: 10px;
+    width: 20px;
+    padding-left: 30px;
+}
+
+#images {
+    text-decoration: none;
+    font-size: 15px;
+    margin-right: 65px;
+}
+
+#store:hover {
+    text-decoration: underline;
+}
+
+#about:hover {
+    text-decoration: underline;
+}
+
+#gmail:hover {
+    text-decoration: underline;
+}
+
+#images:hover {
+    text-decoration: underline;
+}
+
+.navbar {
+    margin-top: 20px;
+}
+
+.footer {
+    background-color: rgb(242, 242, 242);
+    margin-top: 330px;
+    padding: 20px 20px 0px 20px;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    left: 0;
+    width: 100%;
+}
+
+#advertising {
+    width: 100px;
+    text-decoration: none;
+}
+
+#business {
+    width: 100px;
+    text-decoration: none;
+}
+
+#how-search-works {
+    width: 130px;
+    text-decoration: none;
+}
+
+#privacy {
+    width: 100px;
+    margin-left: 1000px;
+    text-decoration: none;
+}
+
+#terms {
+    width: 100px;
+    text-decoration: none;
+}
+
+#settings {
+    width: 100px;
+    text-decoration: none;
+}
+
+#advertising:hover {
+   text-decoration: underline;
+}
+
+#business:hover {
+    text-decoration: underline;
+}
+
+#how-search-works:hover {
+    text-decoration: underline;
+}
+
+#privacy:hover {
+    text-decoration: underline;
+}
+
+#terms:hover {
+    text-decoration: underline;
+}
+
+#settings:hover {
+    text-decoration: underline;
+}
+
+#signin {
+    background-color: rgb(69, 132, 239);
+    border-radius: 5px;
+    color: white;
+    right: 10px;
+    top: 15px;
+    position: absolute;
+    width: 75px;
+    height: 33px;
+    font-size: 13px;
+}
+
